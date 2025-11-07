@@ -1,0 +1,13 @@
+openrouter:
+  api_key: "sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  model: "openai/gpt-4o-mini"
+
+confluence:
+  email: "your_email@example.com"
+  api_token: "your_confluence_api_token"
+  site: "your-domain.atlassian.net"
+  space_id: 123456
+
+paths:
+  input_folder: "C:\\Path\\To\\scripts"
+  archive_folder: "C:\\Path\\To\\archive"
